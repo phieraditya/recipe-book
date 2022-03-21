@@ -16,6 +16,83 @@
   <body>
     <div class="container"></div>
     <div class="overlay hidden"></div>
-    <div class="add-recipe-window hidden"></div>
+    <div class="add-recipe-window hidden">
+      <button class="btn--close-modal">&times;</button>
+      <form class="upload">
+        <div class="upload__column">
+          <h3 class="upload__heading">Recipe data</h3>
+          <label>Title</label>
+          <input type="text" value="TEST" required name="title" />
+          <label>URL</label>
+          <input type="text" value="TEST" required name="sourceUrl" />
+          <label>Image URL</label>
+          <input type="text" value="TEST" required name="image" />
+          <label>Publisher</label>
+          <input type="text" value="TEST" required name="publisher" />
+          <label>Prep time</label>
+          <input type="number" value="21" required name="cookingTime" />
+          <label>Servings</label>
+          <input type="number" value="21" required name="servings" />
+        </div>
+
+        <div class="upload__column">
+          <h3 class="upload__heading">Ingredients</h3>
+          <label>Ingredient 1</label>
+          <input
+            type="text"
+            value="0.5,kg,Rice"
+            required
+            name="ingredient-1"
+            placeholder="Format: 'Quantity,Unit,Description'"
+          />
+          <label>Ingredient 2</label>
+          <input
+            type="text"
+            value="1,,Avocado"
+            required
+            name="ingredient-2"
+            placeholder="Format: 'Quantity,Unit,Description'"
+          />
+          <label>Ingredient 3</label>
+          <input
+            type="text"
+            value=",,salt"
+            required
+            name="ingredient-3"
+            placeholder="Format: 'Quantity,Unit,Description'"
+          />
+          <label>Ingredient 4</label>
+          <input
+            type="text"
+            value=""
+            required
+            name="ingredient-4"
+            placeholder="Format: 'Quantity,Unit,Description'"
+          />
+          <label>Ingredient 5</label>
+          <input
+            type="text"
+            value=""
+            required
+            name="ingredient-5"
+            placeholder="Format: 'Quantity,Unit,Description'"
+          />
+          <label>Ingredient 6</label>
+          <input
+            type="text"
+            value=""
+            required
+            name="ingredient-6"
+            placeholder="Format: 'Quantity,Unit,Description'"
+          />
+        </div>
+        <button class="btn upluad__btn">
+          <svg>
+            <use href="src/img/icons.svg#icon-upload-cloud"></use>
+          </svg>
+          <span>Upload</span>
+        </button>
+      </form>
+    </div>
   </body>
 </html>
