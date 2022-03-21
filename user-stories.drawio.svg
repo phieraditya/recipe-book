@@ -1,0 +1,80 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="729px" height="369px" viewBox="-0.5 -0.5 729 369" content="&lt;mxfile&gt;&lt;diagram id=&quot;87j64878aw7dLP9FzZNb&quot; name=&quot;User Stories&quot;&gt;vVZLb9swDP41vgaO3Sa9tmm77TBgQA/bjrJN20Jk0ZDl2NmvH/XwM2mxFsUSJJY+USQ/kjIVxIeq/6JYXX7HDEQQhVkfxI9BFG3j25AeBjk7ZHfngULxzAtNwAv/Ax4cxFqeQbMQ1IhC83oJpiglpHqBMaWwW4rlKJZWa1bABfCSMnGJ/uSZLh16F+0n/CvwovSWb+9it5Cw9FgobKU3F0Txs/245YoNqjzPpmQZdjMofgrig0LUblT1BxAmtEPU3L7nV1ZHtxVI/S8bbrwb+jwwh4wC4acSJT0eSl0Jmm1pCD3Xv2bj3zQON7d+9mjyHw6Ts5/kKLXP8Hbn5wcUqKzBeHtvvoQ7V4z9V8l4qMFWpV4qHqNGxQhYgVZnElEgmOanpSrmq6IY5catP5CTkSj0Fby/8Qny9XsThksVmqkCtN81BZgGMzcmyIb9egp85ZyYaGEomp0gwg9IYrtC29A4RPABuW+MM/RrG1BBRFbCb/TrmGWhMTCJd5uSYU8DTKWlPQ7KhijlNR0yL0Z+JpO9gw2zUVUy7ZWnTJrNnIo7CiV0lgSwZtRYARPNZrSr1u6TiYnBhzglYEQSAdf4WYm2zpgG67j5l22VGGUh5oYRqBOXxbs5p4hH75vhOBLOeJ6DLc+1pRqwFrD5POYXbBPyqWLq+PFMKjhxm0UKVUUPOjGgPtHlebKuc0gVuGRV5sxiJz9CpmQnmEgwe7hQFUzSO8dUKpdjNTSssj7V9X+l2cDIcciaVWsP0op12JUgvRUBIzXn9bgpRUvEtJshce+uaYHNWnnDchDGTZZbjbbw6cC8HS0C56+qVUPR0NsYaIVHGN77vrPkXIgVNGs2Xck1vNTMvuo7umgQdgKlOfXpe8ELSXDFs8xYekBayYXtpSVhFMP3dh6jGvq3e89lo+mHBrHqF27aTZeH/dDzy9nFYbwIXGtNi6YydRCaThcE13CmS1j89Bc=&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(255, 255, 255);">
+    <defs>
+        <style type="text/css">
+            /* latin */
+@font-face {
+  font-family: 'Architects Daughter';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/architectsdaughter/v17/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg4-7jA-U.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+        </style>
+    </defs>
+    <g>
+        <path d="M 720 110 L 700.51 353.65" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 700.09 358.89 L 697.16 351.63 L 700.51 353.65 L 704.14 352.19 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="0" y="0" width="720" height="220" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 718px; height: 1px; padding-top: 110px; margin-left: 2px;">
+                        <div data-drawio-colors="color: #1A1A1A; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 216px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(26, 26, 26); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <ol>
+                                    <li>
+                                        As a user, I want to
+                                        <b>
+                                            search for recipes
+                                        </b>
+                                        , so that I can find new ideas for meals.
+                                        <br/>
+                                    </li>
+                                    <li>
+                                        As a user, I want to be able
+                                        <b>
+                                            to update the number of servings
+                                        </b>
+                                        , so that I can cook a meal for different number of people.
+                                    </li>
+                                    <li>
+                                        As a user, I want to
+                                        <b>
+                                            bookmark recipes
+                                        </b>
+                                        , so that I can review them later.
+                                    </li>
+                                    <li>
+                                        As a user, I want to be able to
+                                        <b>
+                                            create my own recipes
+                                        </b>
+                                        , so that I have them all organized in the same app.
+                                    </li>
+                                    <li>
+                                        As a user, I want to be able to
+                                        <b>
+                                            see my bookmarks and own recipes when I leave the app and come back later
+                                        </b>
+                                        , so that I can close the app safely after cooking.
+                                    </li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2" y="115" fill="#1A1A1A" font-family="Helvetica" font-size="16px">
+                    As a user, I want to search for recipes, so that I can find new ideas for meals....
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>

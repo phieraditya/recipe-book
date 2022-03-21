@@ -1,0 +1,303 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="721px" height="683px" viewBox="-0.5 -0.5 721 683" content="&lt;mxfile&gt;&lt;diagram id=&quot;QrA1EXbyNTD7zv8co3OJ&quot; name=&quot;Features&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(255, 255, 255);">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="160" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 20px; margin-left: 1px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    <font style="font-size: 16px">
+                                        USER STORIES
+                                    </font>
+                                </b>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="80" y="24" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    USER STORIES
+                </text>
+            </switch>
+        </g>
+        <rect x="480" y="0" width="160" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 20px; margin-left: 481px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    <font style="font-size: 16px">
+                                        FEATURES
+                                    </font>
+                                </b>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="560" y="24" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    FEATURES
+                </text>
+            </switch>
+        </g>
+        <path d="M 170.5 25 L 170.5 15 L 450.5 15 L 450.5 4.5 L 469.5 20 L 450.5 35.5 L 450.5 25 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="400" y="65" width="320" height="160" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 318px; height: 1px; padding-top: 145px; margin-left: 402px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: #B3B3B3; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 156px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(179, 179, 179); white-space: normal; overflow-wrap: normal;">
+                                <ul>
+                                    <li>
+                                        <font color="#1a1a1a">
+                                            Search functionality: input field to send request to API with searched keywords.
+                                        </font>
+                                    </li>
+                                    <li>
+                                        <font color="#1a1a1a">
+                                            Display results with pagination.
+                                        </font>
+                                    </li>
+                                    <li>
+                                        <font color="#1a1a1a">
+                                            Display recipe with cooking time, servings and ingredients.
+                                        </font>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="402" y="150" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px">
+                    Search functionality: input field to sen...
+                </text>
+            </switch>
+        </g>
+        <rect x="400" y="225" width="320" height="100" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 318px; height: 1px; padding-top: 275px; margin-left: 402px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: #B3B3B3; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 96px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(179, 179, 179); white-space: normal; overflow-wrap: normal;">
+                                <ul>
+                                    <li>
+                                        <font color="#1a1a1a">
+                                            Change servings functionality: update all ingredients according to current number of servings.
+                                        </font>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="402" y="280" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px">
+                    Change servings functionality: update al...
+                </text>
+            </switch>
+        </g>
+        <rect x="400" y="315" width="320" height="100" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 318px; height: 1px; padding-top: 365px; margin-left: 402px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: #B3B3B3; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 96px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(179, 179, 179); white-space: normal; overflow-wrap: normal;">
+                                <ul>
+                                    <li>
+                                        <font color="#1a1a1a">
+                                            Bookmarking functionality: display list of all bookmarked recipes.
+                                        </font>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="402" y="370" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px">
+                    Bookmarking functionality: display list...
+                </text>
+            </switch>
+        </g>
+        <rect x="400" y="407" width="320" height="150" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 318px; height: 1px; padding-top: 482px; margin-left: 402px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: #B3B3B3; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 146px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(179, 179, 179); white-space: normal; overflow-wrap: normal;">
+                                <ul>
+                                    <li>
+                                        <font color="#1a1a1a">
+                                            User can upload own recipes.
+                                        </font>
+                                    </li>
+                                    <li>
+                                        <font color="#1a1a1a">
+                                            User recipes will automatcally be bookmarked.
+                                        </font>
+                                    </li>
+                                    <li>
+                                        <font color="#1a1a1a">
+                                            User can only see their own recipes, not recipes from other users.
+                                        </font>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="402" y="487" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px">
+                    User can upload own recipes.User recipes...
+                </text>
+            </switch>
+        </g>
+        <rect x="400" y="557" width="320" height="125" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 318px; height: 1px; padding-top: 620px; margin-left: 402px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: #B3B3B3; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 121px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(179, 179, 179); white-space: normal; overflow-wrap: normal;">
+                                <ul>
+                                    <li>
+                                        <font color="#1a1a1a">
+                                            Store bookmark data in the browser using local storage.
+                                        </font>
+                                    </li>
+                                    <li>
+                                        <font color="#1a1a1a">
+                                            On page load, read saved bookmarks from local storage and display.
+                                        </font>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="402" y="624" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px">
+                    Store bookmark data in the browser using...
+                </text>
+            </switch>
+        </g>
+        <path d="M 280 89.5 L 391.76 89.93" fill="none" stroke="#ff0000" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 397.76 89.95 L 389.75 93.92 L 391.76 89.93 L 389.78 85.92 Z" fill="#ff0000" stroke="#ff0000" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="10" y="82" width="270" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 268px; height: 1px; padding-top: 97px; margin-left: 12px;">
+                        <div data-drawio-colors="color: #1A1A1A; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(26, 26, 26); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                1. Search for recipes
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="12" y="102" fill="#1A1A1A" font-family="Helvetica" font-size="16px">
+                    1. Search for recipes
+                </text>
+            </switch>
+        </g>
+        <path d="M 280 247.5 L 391.76 247.93" fill="none" stroke="#ff0000" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 397.76 247.95 L 389.75 251.92 L 391.76 247.93 L 389.78 243.92 Z" fill="#ff0000" stroke="#ff0000" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="10" y="240" width="270" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 268px; height: 1px; padding-top: 255px; margin-left: 12px;">
+                        <div data-drawio-colors="color: #1A1A1A; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(26, 26, 26); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                2.
+                                <span style="font-family: &quot;helvetica&quot;">
+                                    Update the number of servings
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="12" y="260" fill="#1A1A1A" font-family="Helvetica" font-size="16px">
+                    2. Update the number of servings
+                </text>
+            </switch>
+        </g>
+        <path d="M 280 347.5 L 391.76 347.93" fill="none" stroke="#ff0000" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 397.76 347.95 L 389.75 351.92 L 391.76 347.93 L 389.78 343.92 Z" fill="#ff0000" stroke="#ff0000" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="10" y="340" width="270" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 268px; height: 1px; padding-top: 355px; margin-left: 12px;">
+                        <div data-drawio-colors="color: #1A1A1A; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(26, 26, 26); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                3.
+                                <span style="font-family: &quot;helvetica&quot;">
+                                    Bookmark recipes
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="12" y="360" fill="#1A1A1A" font-family="Helvetica" font-size="16px">
+                    3. Bookmark recipes
+                </text>
+            </switch>
+        </g>
+        <path d="M 280 427.5 L 391.76 427.93" fill="none" stroke="#ff0000" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 397.76 427.95 L 389.75 431.92 L 391.76 427.93 L 389.78 423.92 Z" fill="#ff0000" stroke="#ff0000" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="10" y="420" width="270" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 268px; height: 1px; padding-top: 435px; margin-left: 12px;">
+                        <div data-drawio-colors="color: #1A1A1A; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(26, 26, 26); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                4.
+                                <span style="font-family: &quot;helvetica&quot;">
+                                    Create my own recipes
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="12" y="440" fill="#1A1A1A" font-family="Helvetica" font-size="16px">
+                    4. Create my own recipes
+                </text>
+            </switch>
+        </g>
+        <path d="M 280 578 L 391.76 577.96" fill="none" stroke="#ff0000" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 397.76 577.96 L 389.77 581.96 L 391.76 577.96 L 389.76 573.96 Z" fill="#ff0000" stroke="#ff0000" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="10" y="563" width="270" height="60" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 268px; height: 1px; padding-top: 593px; margin-left: 12px;">
+                        <div data-drawio-colors="color: #1A1A1A; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(26, 26, 26); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                5.
+                                <span style="font-family: &quot;helvetica&quot;">
+                                    See my bookmarks and own recipes when I leave the app and come back later
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="12" y="598" fill="#1A1A1A" font-family="Helvetica" font-size="16px">
+                    5. See my bookmarks and own recipe...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
