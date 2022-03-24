@@ -1,6 +1,7 @@
-import icons from '../img/icons.svg'; // Parcel 1
-// import icons from 'url:../img/icons.svg'; // Parcel 2 for static (non programming) file such as image, video, sound
-console.log(icons);
+// import icons from '../img/icons.svg'; // Parcel 1
+import icons from 'url:../img/icons.svg'; // Parcel 2 for static (non programming) file such as image, video, sound
+import 'core-js/stable'; // Polyfilling else
+import 'regenerator-runtime/runtime'; // Polyfilling async-await
 
 const recipeContainer = document.querySelector('.recipe');
 
