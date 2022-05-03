@@ -1,0 +1,30 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phieraditya/recipe-book.git"
+  },
+  "author": "Devinoraya Radityapalma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phieraditya/recipe-book/issues"
+  },
+  "homepage": "https://github.com/phieraditya/recipe-book#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.5.0",
+    "parcel": "^2.5.0",
+    "sass": "^1.50.1"
+  },
+  "dependencies": {
+    "core-js": "^3.22.2",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.13.9"
+  },
+  "main": "index.js"
+}
