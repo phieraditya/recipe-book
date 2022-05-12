@@ -26,6 +26,5 @@
     "core-js": "^3.22.2",
     "fractional": "^1.0.0",
     "regenerator-runtime": "^0.13.9"
-  },
-  "main": "index.js"
+  }
 }
